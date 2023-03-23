@@ -2,4 +2,4 @@ Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/article-prev
 
 Codepen: https://codepen.io/javalentino/pen/VwGVxgK
 
-Link: 
+Link: https://javalentino.github.io/Article-preview-component/
